@@ -16,7 +16,7 @@ class TwitterApi
   end
 
   def most_recent_follower
-    # find the Twitter gem method that accomplishes this!
+    require ''
   end
 
   def find_user_for(username)
